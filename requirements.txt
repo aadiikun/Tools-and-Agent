@@ -1,4 +1,4 @@
-langchain
+langchain==0.3.27
 python-dotenv
 langchain_community
 langchain-openai
