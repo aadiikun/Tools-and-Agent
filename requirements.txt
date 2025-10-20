@@ -17,3 +17,4 @@ langchain-chroma
 arxiv
 wikipedia
 ipykernel
+ddgs
